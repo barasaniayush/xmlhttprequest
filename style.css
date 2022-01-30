@@ -1,0 +1,20 @@
+.newtable {
+    font-family: sans-serif;
+    border-collapse: collapse;
+    border: 1px solid black;
+    width: 50%;
+    margin: 20px 20px 20px;
+}
+.newtable td, .newtable th {
+    border: 1px solid #000;
+    padding: 8px;
+}
+
+.input-box.button button{
+    color: #fff;
+    border: none;
+    background: #4070f4;
+    cursor: pointer;
+    padding: 10px;
+    margin-left: 100px;
+  }
